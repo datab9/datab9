@@ -18,7 +18,7 @@
  
 <div align="center"> 
   <a href="mailto:mohamed.se9@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-blue"/>
+    <img src="https://img.shields.io/badge/Outlook-blue">
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
