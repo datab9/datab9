@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Outlook-blue">
   </a>
  
-<a href="https://mohamed.github.io" target="_blank">
+<a href="htps://mohamed.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-green" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   
