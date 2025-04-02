@@ -20,7 +20,7 @@
   <a href="mailto:mohamed.se9@outlook.com">
     <img src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-30.png"/>
   </a
-<a href="https://mohamed.github.io" target="_blank">
+<a href="https://mohamed.github.io">
      <img src="https://img.shields.io/badge/Portfolio-green"/>
   </a
 
