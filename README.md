@@ -35,7 +35,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools-Technologies and Services ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools-Technologies & Services ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,r,linux,ai" />
