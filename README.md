@@ -18,7 +18,7 @@
  
 <div align="center"> 
   <a href="mailto:mohamed.se9@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-blue">
+    <img src="https://img.shields.io/badge/Outlook-blue"/>
   </a>
  
 <a href="htps://mohamed.github.io" target="_blank">
