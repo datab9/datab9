@@ -38,8 +38,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools-Technologies and Services ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,r,power bi" />
-    <img src="https://skillicons.dev/icons?i=python,mysql,aws,azure" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,r" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,aws,azure, power bi" /><br>
 </div>
 
 <br/>
