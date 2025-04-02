@@ -18,7 +18,7 @@
  
 <div align="center"> 
   <a href="mailto:mohamed.se9@outlook.com">
-    <img src="https://cdn1.iconfinder.com/data/icons/social-media-glossy/512/74-outlook_social-32.png"/>
+    <img src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-128.png"/>
   </a>
  
 <a href="https://mohamed.github.io" target="_blank">
