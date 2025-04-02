@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Outlook-blue"/>
   </a>
  
-<a href="htps://mohamed.github.io" target="_blank">
+<a href="https://mohamed.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-green"/>
   </a>
   
