@@ -25,7 +25,7 @@
   </a
 
 <a href="https://linkedin.com/in/mohamed-sales-muniz" target="_blank">
-     <img src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_LinkedIn-64.png"/>
+     <img src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_LinkedIn-32.png"/>
   </a
  
 </div>
