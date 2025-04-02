@@ -39,7 +39,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,git,r" />
-    <img src="https://skillicons.dev/icons?i=python,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,mysql,aws,azure" /><br>
 </div>
 
 <br/>
