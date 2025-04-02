@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m a data analyst Guro to be! and currently working on **a marketplace**
  
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
