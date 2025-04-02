@@ -25,7 +25,7 @@
      <img src="https://img.shields.io/badge/Portfolio-green" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   
-<a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+<a href="https://linkedin.com/in/mohamed-sales-muniz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue" />
   </a>
  
