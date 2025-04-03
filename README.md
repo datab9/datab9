@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m a data analyst Guro to 2B! and currently working on **a marketplace**
+ 🔭 The guru 2B in this exciting filed! and currently working on **a marketplace**
  
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
